@@ -1,0 +1,325 @@
+[
+    {
+        "id": 1,
+        "title": "Machu Picchu",
+        "category": "America do sul",
+        "description": "Pacote Lima + Cusco com Passeio à Machu Picchu",
+        "details": "Apartamento duplo | 05 diárias (02 diárias em Lima + 03 diárias em Cusco) | Passeios à Machu Picchu",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["machu-picchu01", "machu-picchu02", "machu-picchu03", "machu-picchu04"],
+        "includedItems": [
+            {
+                "id": 1,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 2,
+                "title": "Café da manhã",
+                "image": ""
+            },
+            {
+                "id": 3,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "3.200"
+    },
+    {
+        "id": 2,
+        "title": "Rio de Janeiro",
+        "category": "America do sul",
+        "description": "Aéreo + Hospedagem c/ Café da Manhã + Transfer",
+        "details": "Apartamento duplo | 02 diárias em Rio de Janeiro + 02 diárias em ilha Grande | Transfer | Catamarã",
+        "dateLimit": "01 de mar - 30 de nov",
+        "images": ["rio-de-janeiro-1", "rio-de-janeiro-2", "rio-de-janeiro-3", "rio-de-janeiro-4"],
+        "includedItems": [
+            {
+                "id": 4,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 5,
+                "title": "Café da manhã",
+                "image": ""
+            },
+            {
+                "id": 6,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "1.189,00"
+    },
+    {
+        "id": 3,
+        "title": "Buenos Aires",
+        "category": "America do sul",
+        "description": "Aéreo + Hospedagem c/ Café da Manhã",
+        "details": "Incluso passeio p/ Bariloche",
+        "dateLimit": "01 de abr - 30 de dez",
+        "images": ["buenos-aires-1", "buenos-aires-2", "buenos-aires-3", "buenos-aires-4"],
+        "includedItems": [
+            {
+                "id": 7,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 8,
+                "title": "Café da manhã",
+                "image": ""
+            },
+            {
+                "id": 9,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "2.639"
+    },
+    {
+        "id": 4,
+        "title": "Lima",
+        "category": "America do sul",
+        "description": "Pacote Lima + Cusco",
+        "details": "Apartamento duplo - Hotel + Passagem",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["lima-1", "lima-2", "lima-3", "lima-4"],
+        "includedItems": [
+            {
+                "id": 10,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 11,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "3.750"
+    },
+    {
+        "id": 5,
+        "title": "Santiago",
+        "category": "America do sul",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["santiago-1", "santiago-2", "santiago-3"],
+        "includedItems": [
+            {
+                "id": 12,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 13,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "R$ 1.199"
+    },
+    {
+        "id": 6,
+        "title": "Lisboa",
+        "category": "Europa",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de abr - 30 de set",
+        "images": ["lisboa-1", "lisboa-2", "lisboa-3", "lisboa-4"],
+        "includedItems": [
+            {
+                "id": 14,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 15,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "5.059,00"
+    },
+    {
+        "id": 7,
+        "title": "Roma",
+        "category": "Europa",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["roma-1", "roma-2", "roma-3", "roma-4"],
+        "includedItems": [
+            {
+                "id": 16,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 17,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "8.339"
+    },
+    {
+        "id": 8,
+        "title": "França",
+        "category": "Europa",
+        "description": "Aéreo + Hotel",
+        "details": "Pacote Paris + Passeios",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["franca-1", "franca-2", "franca-3", "franca-4"],
+        "includedItems": [
+            {
+                "id": 16,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 17,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "6.529"
+    },
+    {
+        "id": 9,
+        "title": "Amsterdam",
+        "category": "Europa",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de set - 30 de nov",
+        "images": ["amsterdam-1", "amsterdam-2", "amsterdam-3", "amsterdam-4"],
+        "includedItems": [
+            {
+                "id": 18,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 19,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "7.739"
+    },
+    {
+        "id": 10,
+        "title": "Londres",
+        "category": "Europa",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de mar - 30 de jul",
+        "images": ["londres-1", "londres-2", "londres-3", "londres-4"],
+        "includedItems": [
+            {
+                "id": 18,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 19,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "7.739"
+    },
+    {
+        "id": 11,
+        "title": "Nova York",
+        "category": "America do norte",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de mar - 30 de jul",
+        "images": ["nova-york-1", "nova-york-2", "nova-york-3", "nova-york-4"],
+        "includedItems": [
+            {
+                "id": 20,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 21,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "5.829"
+    },
+    {
+        "id": 12,
+        "title": "Vancouver",
+        "category": "America do norte",
+        "description": "Aéreo + Hotel",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de mar - 30 de jul",
+        "images": ["vancouver-1", "vancouver-2", "vancouver-3", "vancouver-4"],
+        "includedItems": [
+            {
+                "id": 20,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 21,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "5.820"
+    },
+    {
+        "id": 13,
+        "title": "Cancun",
+        "category": "America do norte",
+        "description": "Aéreo + Hotel 5 estrelas",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de mar - 30 de jul",
+        "images": ["cancun-1", "cancun-2", "cancun-3", "cancun-4"],
+        "includedItems": [
+            {
+                "id": 20,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 21,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "6.590"
+    },
+    {
+        "id": 14,
+        "title": "São Francisco",
+        "category": "America do norte",
+        "description": "Aéreo + Hotel 5 estrelas",
+        "details": "Apartamento duplo",
+        "dateLimit": "01 de mar - 30 de jul",
+        "images": ["san-francisco-1", "san-francisco-2", "san-francisco-3", "san-francisco-4"],
+        "includedItems": [
+            {
+                "id": 20,
+                "title": "Apartamento",
+                "image": ""
+            },
+            {
+                "id": 21,
+                "title": "Passagem Aérea",
+                "image": ""
+            }
+        ],
+        "price": "7.600"
+    }
+]

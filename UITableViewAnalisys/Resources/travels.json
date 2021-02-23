@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Rio de Janeiro",
+        "image": "img1",
+        "daysQuantity": "6 dias",
+        "price": "1.200,00",
+        "coordinate": {
+            "longitude": -43.2096,
+            "latitude": -22.9035
+        }
+    },
+    {
+        "id": 2,
+        "title": "Ceará",
+        "image": "img2",
+        "daysQuantity": "6 dias",
+        "price": "1.200,00",
+        "coordinate": {
+            "longitude": -38.5434,
+            "latitude": -3.71839
+        }
+    },
+    {
+        "id": 3,
+        "title": "Atibaia - São Paulo",
+        "image": "img3",
+        "daysQuantity": "6 dias",
+        "price": "1.200,00",
+        "coordinate": {
+            "longitude": -46.5502,
+            "latitude": -23.1171
+        }
+    },
+    {
+        "id": 4,
+        "title": "Paraíba",
+        "image": "img4",
+        "daysQuantity": "6 dias",
+        "price": "1.200,00",
+        "coordinate": {
+            "longitude": -34.861,
+            "latitude": -7.11532
+        }
+    }
+]
+
