@@ -1,5 +1,5 @@
 # Custom-TableView-Custom-CollectionView
-Project Made to  show custom xib loading, custom cell loading from xib on each row at tableview. I don't worried about the design.
+Project Made to  show custom xib loading, custom cell loading from xib on each row at tableview. I didn't worried about the design.
 
 #Preview
 
